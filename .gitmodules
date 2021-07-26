@@ -1,0 +1,4 @@
+[submodule "NB5055/dgii_module"]
+	path = NB5055/dgii_module
+	url = git@github.com:NB5055/dgii_module.git
+	branch = 14.0
